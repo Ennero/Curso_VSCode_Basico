@@ -16,6 +16,7 @@
 //*        Mostrar la paleta de comandos
 //*        ⇧ ⌘ P, F1
 //*        Ctrl + Shift + P, F1
+//!        En la cadena de comando se puede escribir "Uppercase" o "Lowercase"
 //*
 
 function capitalizados() {
